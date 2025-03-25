@@ -1,0 +1,8 @@
+[MQTT]
+broker = rlab.lucami.org
+port = 1883
+username = 
+password = 
+
+[IDENTITY]
+id = RP00
